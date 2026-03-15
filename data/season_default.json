@@ -1,0 +1,25 @@
+{
+  "name": "Total Survivor Island",
+  "teams": ["Screaming Gophers", "Killer Bass"],
+  "rounds": [
+    {
+      "id": "ep1",
+      "label": "Episode 1",
+      "phases": [
+        { "type": "camp_life" },
+        { "type": "team_challenge" },
+        { "type": "camp_life" },
+        { "type": "elimination" }
+      ]
+    },
+    {
+      "id": "ep2",
+      "label": "Episode 2",
+      "phases": [
+        { "type": "camp_life" },
+        { "type": "team_challenge" },
+        { "type": "elimination" }
+      ]
+    }
+  ]
+}
